@@ -1,2 +1,2 @@
-# quality-education-app
+# unit-converting-app
 GDSC solution challenge 
